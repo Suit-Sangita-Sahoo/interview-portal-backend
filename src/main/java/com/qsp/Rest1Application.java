@@ -8,3 +8,4 @@ public class Rest1Application
 		SpringApplication.run(Rest1Application.class, args);
 	}
 }
+
